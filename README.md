@@ -1,0 +1,2 @@
+# Intelligent-Cybersecurity-Log-Analysis-for-Anomaly-and-Threat-Detection-Using-Machine-Learning
+ Developed a machine learning-based cybersecurity log analysis platform using Isolation Forest to detect anomalous activities and classify potential threats by severity. Implemented automated and manual IP blocking, interactive dashboards, heatmaps, and geolocation visualization to support effective cybersecurity monitoring and threat analysis
